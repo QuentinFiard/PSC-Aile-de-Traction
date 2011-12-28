@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Vecteur::init(std::vector&lt;double, std::allocator&lt;double&gt; &gt; const&amp;, Referentiel*):Vecteur.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "refNew-&gt;dim()">
+            </PersistentString>
+            <PersistentString
+               value = "coordNew.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Vecteur::Vecteur(Vecteur const&amp;):Vecteur.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vecteur::dim() const:Vecteur.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Referentiel3D::calculerAxes():Referentiel3D.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Quaternion::rotation(Vecteur const&amp;) const:Quaternion.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vecteur::init(unsigned char, double const*&amp;, Referentiel*):Vecteur.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vecteur::Vecteur(unsigned char, Referentiel*):Vecteur.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Referentiel::Referentiel(Referentiel const&amp;):Referentiel.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Referentiel::ReferentielDeReference(unsigned char):Referentiel.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "testerReferentiels():Tests.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

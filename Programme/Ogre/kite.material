@@ -1,0 +1,11 @@
+material L_045default/SOLID
+{
+	technique
+	{
+		pass
+		{
+			diffuse 0.000000 0.796875 0.000000
+			specular 0.250000 0.250000 0.250000 8.000000
+		}
+	}
+}
